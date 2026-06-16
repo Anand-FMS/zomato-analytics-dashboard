@@ -45,7 +45,7 @@ The goal was to analyze restaurant performance data and generate actionable busi
 
 
 
-1. **Exploratory Analysis**
+**1.** **Exploratory Analysis**
 
 
 
@@ -109,7 +109,7 @@ The goal was to analyze restaurant performance data and generate actionable busi
 
 
 
-1. **Executive Overview**
+**1.** **Executive Overview**
 
 
 
@@ -187,7 +187,7 @@ Displays:
 
 
 
-1. datasets
+1\. datasets
 
 2\. sql
 
